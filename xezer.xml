@@ -4,63 +4,6 @@
     <display-name lang="az">Xəzər TV</display-name>
     <display-name>Xezer TV</display-name>
   </channel>
-  <programme start="20261003231500 +0400" stop="20261004010000 +0400" channel="XezerTV.az">
-    <title lang="az">FƏLİDƏN DOĞRU XƏBƏR - TƏKRAR</title>
-  </programme>
-  <programme start="20261004010000 +0400" stop="20261004070000 +0400" channel="XezerTV.az">
-    <title lang="az">BƏDİİ FİLM</title>
-  </programme>
-  <programme start="20261004070000 +0400" stop="20261004080000 +0400" channel="XezerTV.az">
-    <title lang="az">BİR MEŞƏNİN SİRRİ - TƏKRAR</title>
-  </programme>
-  <programme start="20261004080000 +0400" stop="20261004085000 +0400" channel="XezerTV.az">
-    <title lang="az">BUĞLAMA - TƏKRAR</title>
-  </programme>
-  <programme start="20261004085000 +0400" stop="20261004094500 +0400" channel="XezerTV.az">
-    <title lang="az">BİZİM ELTİLƏR - TƏKRAR</title>
-  </programme>
-  <programme start="20261004094500 +0400" stop="20261004110000 +0400" channel="XezerTV.az">
-    <title lang="az">HƏKİMSƏN</title>
-  </programme>
-  <programme start="20261004110000 +0400" stop="20261004120000 +0400" channel="XezerTV.az">
-    <title lang="az">HƏYATIN DADI - TƏKRAR</title>
-  </programme>
-  <programme start="20261004120000 +0400" stop="20261004123000 +0400" channel="XezerTV.az">
-    <title lang="az">KƏND HƏYATI</title>
-  </programme>
-  <programme start="20261004123000 +0400" stop="20261004140000 +0400" channel="XezerTV.az">
-    <title lang="az">BAĞ HAVASI - TƏKRAR</title>
-  </programme>
-  <programme start="20261004140000 +0400" stop="20261004141500 +0400" channel="XezerTV.az">
-    <title lang="az">XƏZƏR XƏBƏR</title>
-  </programme>
-  <programme start="20261004141500 +0400" stop="20261004150000 +0400" channel="XezerTV.az">
-    <title lang="az">KOMEDİXANA - TƏKRAR</title>
-  </programme>
-  <programme start="20261004150000 +0400" stop="20261004160000 +0400" channel="XezerTV.az">
-    <title lang="az">UZAQGÖRƏN - TƏKRAR</title>
-  </programme>
-  <programme start="20261004160000 +0400" stop="20261004170000 +0400" channel="XezerTV.az">
-    <title lang="az">BAKI GÜNDƏLİYİ - TƏKRAR</title>
-  </programme>
-  <programme start="20261004170000 +0400" stop="20261004180000 +0400" channel="XezerTV.az">
-    <title lang="az">ƏNƏNƏ BOĞÇASI - YENİ</title>
-  </programme>
-  <programme start="20261004180000 +0400" stop="20261004194500 +0400" channel="XezerTV.az">
-    <title lang="az">EVDƏKİLƏRƏ SALAM - TƏKRAR</title>
-  </programme>
-  <programme start="20261004194500 +0400" stop="20261004200000 +0400" channel="XezerTV.az">
-    <title lang="az">AZƏRLOTEREYA - CANLI</title>
-  </programme>
-  <programme start="20261004200000 +0400" stop="20261004210000 +0400" channel="XezerTV.az">
-    <title lang="az">ZARAFAT BİR YANA - TƏKRAR</title>
-  </programme>
-  <programme start="20261004210000 +0400" stop="20261004220000 +0400" channel="XezerTV.az">
-    <title lang="az">XƏZƏR XƏBƏR</title>
-  </programme>
-  <programme start="20261004220000 +0400" stop="20261004231500 +0400" channel="XezerTV.az">
-    <title lang="az">KOMEDİXANA</title>
-  </programme>
   <programme start="20261004231500 +0400" stop="20261005001500 +0400" channel="XezerTV.az">
     <title lang="az">FƏLİDƏN DOĞRU XƏBƏR - TƏKRAR</title>
   </programme>
@@ -747,5 +690,44 @@
   </programme>
   <programme start="20261018231500 +0400" stop="20261019001500 +0400" channel="XezerTV.az">
     <title lang="az">FƏLİDƏN DOĞRU XƏBƏR - TƏKRAR</title>
+  </programme>
+  <programme start="20261019001500 +0400" stop="20261019011500 +0400" channel="XezerTV.az">
+    <title lang="az">BƏDİİ FİLM</title>
+  </programme>
+  <programme start="20261019070000 +0400" stop="20261019100000 +0400" channel="XezerTV.az">
+    <title lang="az">XƏBƏR ERTƏSİ - CANLI</title>
+  </programme>
+  <programme start="20261019100000 +0400" stop="20261019120000 +0400" channel="XezerTV.az">
+    <title lang="az">İNCƏ SƏHƏR - TƏKRAR</title>
+  </programme>
+  <programme start="20261019120000 +0400" stop="20261019130000 +0400" channel="XezerTV.az">
+    <title lang="az">SUNA İLƏ YEMƏYƏ DƏYƏR - TƏKRAR</title>
+  </programme>
+  <programme start="20261019130000 +0400" stop="20261019140000 +0400" channel="XezerTV.az">
+    <title lang="az">SERİAL - ŞİRİN - TƏKRAR</title>
+  </programme>
+  <programme start="20261019140000 +0400" stop="20261019142000 +0400" channel="XezerTV.az">
+    <title lang="az">XƏZƏR XƏBƏR</title>
+  </programme>
+  <programme start="20261019142000 +0400" stop="20261019155500 +0400" channel="XezerTV.az">
+    <title lang="az">QONAQCANLI - CANLI</title>
+  </programme>
+  <programme start="20261019155500 +0400" stop="20261019180000 +0400" channel="XezerTV.az">
+    <title lang="az">TƏSİR DAİRƏSİ - CANLI</title>
+  </programme>
+  <programme start="20261019180000 +0400" stop="20261019182000 +0400" channel="XezerTV.az">
+    <title lang="az">XƏZƏR XƏBƏR</title>
+  </programme>
+  <programme start="20261019182000 +0400" stop="20261019210000 +0400" channel="XezerTV.az">
+    <title lang="az">XƏZƏR AXŞAMI - CANLI</title>
+  </programme>
+  <programme start="20261019210000 +0400" stop="20261019220000 +0400" channel="XezerTV.az">
+    <title lang="az">XƏZƏR XƏBƏR</title>
+  </programme>
+  <programme start="20261019220000 +0400" stop="20261019230000 +0400" channel="XezerTV.az">
+    <title lang="az">SERİAL - XƏYANƏT - YENİ</title>
+  </programme>
+  <programme start="20261019230000 +0400" stop="20261020000000 +0400" channel="XezerTV.az">
+    <title lang="az">UZAQGÖRƏN - YENİ</title>
   </programme>
 </tv>
